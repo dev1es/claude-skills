@@ -1,0 +1,20 @@
+# Mac systeem bestanden
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js (als je dat gebruikt)
+node_modules/
+npm-debug.log*
+
+# Python (als je dat gebruikt)
+__pycache__/
+*.py[cod]
+
+# Omgeving variabelen (ZEER BELANGRIJK: NOOIT PUSHEN)
+.env
+.env.local
+
+# IDE instellingen
+.vscode/
+.idea/
